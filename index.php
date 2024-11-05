@@ -11,6 +11,7 @@ if (!isset($_SESSION['tasks'])) {
     <meta charset="UTF-8">
     <title>To-Do List</title>
     <link rel="stylesheet" href="assets/style.css">
+    <script src="assets/script.js"></script>
 </head>
 <body>
     <div class="container">
